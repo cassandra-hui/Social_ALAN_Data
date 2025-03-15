@@ -3,6 +3,7 @@ This repository contains data and analysis code for a study on social effects un
 
 ## Repository Structure
 
+```
 Social_ALAN_Data/
 ├── Codes/
 │   ├── Behavior_Code.R        # R script for behavioral data analysis
@@ -16,7 +17,6 @@ Social_ALAN_Data/
 │   │   └── Melatonin/        # Melatonin measurement data
 │   └── Social_ALAN.csv       # Processed dataset
 └── README.md                 # Project documentation
-
 ```
 
 ## Description
